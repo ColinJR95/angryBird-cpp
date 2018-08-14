@@ -1,4 +1,5 @@
 # angryBird-cpp
+# this us simply homework from cpp class
 moveForward();
 moveForward();
 turnLeft();
