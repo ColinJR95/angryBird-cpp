@@ -1,4 +1,4 @@
-# angryBird-cpp
+# angryBirdMoves-cpp
 # this is simply homework from cpp class. First course of cpp
 moveForward();
 moveForward();
