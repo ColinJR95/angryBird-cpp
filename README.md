@@ -7,7 +7,7 @@ moveForward();
 moveForward();
 turnLeft();
 while (notFinished()) {
-  moveForward();
+  moveForward()
 }
 
 12. 
