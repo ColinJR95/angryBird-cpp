@@ -1,5 +1,5 @@
 # angryBirdMoves-cpp1
-# this is simply homework from cpp class. First course of cpp
+# this is simply hcpp class. First course of cpp
 moveForward();
 moveForward();
 turnLeft();
